@@ -1,16 +1,60 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "מיכל הדחה ערום להתקנה עם אסלת רצפה 38661000 GROHE - טאגור סנטר גרואה",
+      "picture": "images/products/grohe.jpg",
+      "brand_name": "ניאגרות סמויות",
+      "price": 100,
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "תעלת ניקוז",
+      "picture": "images/products/תעלות-ניקוזA15.jpg",
+      "brand_name": "ניקוז",
+      "price": 100,
+      "id": 2
+    },
+    {
+      "name": "זוית 45 מעלות הברגה",
+      "picture": "images/products/זוית 45 הברגה.jpg",
+      "brand_name": "אביזרי הברגה",
+      "price": 100,
+      "id": 3
+    },
+    {
+      "name": "זוית 90 מעלות הברגה",
+      "picture": "images/products/זוית 90 הברגה.jpg",
+      "brand_name": "אביזרי הברגה",
+      "price": 100,
+      "id": 4
+    },
+    {
+      "name": "מיכל הדחה ערום להתקנה עם אסלת רצפה 38661000 GROHE - טאגור סנטר גרואה",
+      "picture": "images/products/grohe.jpg",
+      "brand_name": "ניאגרות סמויות",
+      "price": 100,
+      "id": 5
+    },
+    {
+      "name": "מיכל הדחה ערום להתקנה עם אסלת רצפה 38661000 GROHE - טאגור סנטר גרואה",
+      "picture": "images/products/grohe.jpg",
+      "brand_name": "ניאגרות סמויות",
+      "price": 100,
+      "id": 6
+    },
+    {
+      "name": "מיכל הדחה ערום להתקנה עם אסלת רצפה 38661000 GROHE - טאגור סנטר גרואה",
+      "picture": "images/products/grohe.jpg",
+      "brand_name": "ניאגרות סמויות",
+      "price": 100,
+      "id": 7
+    },
+    {
+      "name": "פעמון למנגנון רב כמותי 43486000 גרואה",
+      "picture": "images/products/grohe1.jpg",
+      "brand_name": "אביזרים לסמוי",
+      "price": 100,
+      "id": 8
     }
   ]
 }
